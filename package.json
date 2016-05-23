@@ -1,0 +1,32 @@
+{
+  "name": "fcc-visualize-heatmap",
+  "version": "1.0.0",
+  "description": "Free code camp use d3 to create a heatmap chart",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ratracegrad/fcc-visualize-heatmap.git"
+  },
+  "keywords": [
+    "free",
+    "code",
+    "camp",
+    "visualize",
+    "heatmap",
+    "jennifer",
+    "bland"
+  ],
+  "author": "Jennifer Bland",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ratracegrad/fcc-visualize-heatmap/issues"
+  },
+  "homepage": "https://github.com/ratracegrad/fcc-visualize-heatmap#readme",
+  "dependencies": {
+    "bower": "^1.7.9",
+    "express": "^4.13.4"
+  }
+}
