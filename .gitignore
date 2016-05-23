@@ -25,6 +25,10 @@ build/Release
 
 # Dependency directory
 node_modules
+public/javascripts/d3
+public/javascripts/jquery
+public/javascripts/bootstrap
+.idea
 
 # Optional npm cache directory
 .npm
