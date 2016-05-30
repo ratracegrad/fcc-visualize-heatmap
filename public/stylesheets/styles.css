@@ -1,3 +1,7 @@
+#chart {
+    margin-top: 50px;
+}
+
 rect.bordered {
     stroke: #E6E6E6;
     stroke-width:2px;
@@ -15,4 +19,20 @@ text.axis-workweek {
 
 text.axis-worktime {
     fill: #000;
+}
+
+.title {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.subtitle {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.entry {
+    font-size: 14px;
+    font-weight: normal;
+    color: #333;
 }
