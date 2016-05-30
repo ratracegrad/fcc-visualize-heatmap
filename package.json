@@ -4,7 +4,9 @@
   "description": "Free code camp use d3 to create a heatmap chart",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "postinstall": "bower cache clean && bower install"
   },
   "repository": {
     "type": "git",
